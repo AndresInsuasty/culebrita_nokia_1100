@@ -2,16 +2,22 @@
 
 > **¿Recuerdas pasar horas jugando Snake en tu Nokia 1100?** Este proyecto revive ese clásico de los 2000 — ahora en tu computador, construido con Python y Pygame.
 
-```
- ╔══════════════════════════════════╗
- ║          CULEBRITA               ║
- ║          Nokia 1100              ║
- ║                                  ║
- ║    ■ ■ ■ ■ ■ →          ●       ║
- ║                                  ║
- ║    Presiona ENTER para jugar     ║
- ╚══════════════════════════════════╝
-```
+## 📸 Screenshots
+
+<p align="center">
+  <img src="screenshots/01_inicio.png" alt="Pantalla de inicio" width="400"/>
+  <br><em>Pantalla de inicio</em>
+</p>
+
+<p align="center">
+  <img src="screenshots/02_jugando.png" alt="Jugando" width="400"/>
+  <br><em>¡A comer frutas!</em>
+</p>
+
+<p align="center">
+  <img src="screenshots/03_game_over.png" alt="Game Over" width="400"/>
+  <br><em>Game Over — ¿puedes superar tu récord?</em>
+</p>
 
 ## 🎮 Gameplay
 
